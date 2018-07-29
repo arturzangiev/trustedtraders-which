@@ -1,0 +1,1 @@
+web: (cd trustedtraders/trustedtraders/output; python -m http.server $PORT)
